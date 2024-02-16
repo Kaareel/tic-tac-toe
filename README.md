@@ -1,6 +1,9 @@
 # Tic Tac Toe Game
 This is a simple tic-tac-toe game built with React and Create React App. It allows two players to take turns clicking on cells in a 3x3 grid to make their moves. The game indicates whose turn it is and announces the winner or a draw when the game ends.
 
+![image](https://github.com/Kaareel/tic-tac-toe/assets/105023448/1d7f0aab-73bf-452a-8c70-f8f50169a098)
+
+
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 
