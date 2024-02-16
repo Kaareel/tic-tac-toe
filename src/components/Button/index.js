@@ -1,6 +1,6 @@
 import './index.css';
 
-function Button ( {onClick} ) {
+function Button({ onClick }) {
     return (
         <button className='button' onClick={onClick}>Reset</button>
     )

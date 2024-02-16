@@ -1,5 +1,5 @@
-import Table from './componente/table/index.js';
-import Button from './componente/button/index.js';
+import Table from './components/Table';
+import Button from './components/Button';
 import { useState } from 'react';
 import './App.css';
 

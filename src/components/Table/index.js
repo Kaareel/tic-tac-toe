@@ -1,5 +1,5 @@
 import './index.css';
-import Square from '../square/index.js';
+import Square from '../Square';
 
 const Table = ({ squares, onClick, turn }) => {
     return (
